@@ -1,4 +1,4 @@
-'Creating A Hybrid-Based Book Recommendation System'
+'Creating A Hybrid Book Recommendation System'
 
 Dataset used is the following: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
